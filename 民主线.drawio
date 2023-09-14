@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T16:31:31.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" version="21.7.2" etag="M4ZQgY9Zp4Y7m4UPnbqN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T17:01:42.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="fimv_I-kenOYG9SkGD1N" version="21.7.2" type="github">
   <diagram name="第 1 页" id="JlPKs8igPb9OWb3KKn4p">
-    <mxGraphModel>
+    <mxGraphModel dx="1570" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HKs2FlNLfid7ec28tHd5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKs2FlNLfid7ec28tHd5-1" target="HKs2FlNLfid7ec28tHd5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-1" value="我们的胜利！" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKs2FlNLfid7ec28tHd5-2" target="HKs2FlNLfid7ec28tHd5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-2" value="浪潮将至" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKs2FlNLfid7ec28tHd5-3" target="HKs2FlNLfid7ec28tHd5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-3" value="现实政治" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-6" value="外交线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="488" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-7" value="接触赛莲斯势力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-9" value="合作的可能？" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-10" value="罗西亚的状况" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-11" value="背刺？" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-12" value="谈点利益" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-13" value="让我们保持中立的理由" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-14" value="无利不起早" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-15" value="援助北方真理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-16" value="早樱纵队" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-19" value="时限已到" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-20" value="更优惠的条例" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-21" value="以民主之名" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1025" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-22" value="龙马的遗产" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-24" value="推行新政" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKs2FlNLfid7ec28tHd5-26" value="船中八策" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
