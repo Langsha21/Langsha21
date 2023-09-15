@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T05:28:13.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="QHjZk6CdWG_P6zlGynUS" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T05:31:37.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="K_qfcaVxyQRitQH0rh7s" version="21.7.5" type="github">
   <diagram name="第 1 页" id="JlPKs8igPb9OWb3KKn4p">
-    <mxGraphModel dx="1662" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
           <mxGeometry x="2360" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lXyVNuYwYLjohMRoK8uW-22" value="翱翔樱之空" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3420" y="1460" width="120" height="60" as="geometry" />
+          <mxGeometry x="3650" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lXyVNuYwYLjohMRoK8uW-23" value="哦，海军" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2990" y="1460" width="120" height="60" as="geometry" />
@@ -165,6 +165,27 @@
         </mxCell>
         <mxCell id="lXyVNuYwYLjohMRoK8uW-35" value="别搁你那小豆丁不放了，看看隔壁的装甲吧" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1935" y="1618" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3470" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-39" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-40" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3280" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-41" value="提高装甲钢质量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-42" value="全有或全无" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="2120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-43" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-44" value="给两航空兵一个联合的位置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3625" y="1688" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
