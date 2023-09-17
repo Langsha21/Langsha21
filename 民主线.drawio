@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T09:21:08.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="GPaQkyWFppnZCKSkpzUg" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-17T03:51:34.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="d2fXvzITyjNJE4I3_4s1" version="21.7.5" type="github">
   <diagram name="第 1 页" id="JlPKs8igPb9OWb3KKn4p">
-    <mxGraphModel dx="7065" dy="3325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2826" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,13 +47,13 @@
           <mxGeometry x="1650" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HKs2FlNLfid7ec28tHd5-15" value="援助北方真理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1350" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="1330" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HKs2FlNLfid7ec28tHd5-16" value="早樱纵队" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1350" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HKs2FlNLfid7ec28tHd5-17" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1350" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HKs2FlNLfid7ec28tHd5-19" value="时限已到" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="1280" width="120" height="60" as="geometry" />
@@ -76,116 +76,147 @@
         <mxCell id="HKs2FlNLfid7ec28tHd5-27" value="&lt;p style=&quot;margin: 0px 0px 0.5em; color: rgb(32, 33, 34); font-family: sans-serif; font-size: 15.008px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;一、天下政权还于朝廷，政令应当出于朝廷。&lt;br style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;二、设上下议政局，置议员以参万机，展公议以决万机。&lt;/span&gt;&lt;br style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;三、公卿诸侯，以致天下人才，举其有能，并且赐官晋爵，以为顾问，另削有名无实之官。&lt;/span&gt;&lt;br style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;四、广采公议以交外国，检讨规约以定其当。&lt;/span&gt;&lt;br style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;五、复核古有之律令，撰定完善之法典。&lt;/span&gt;&lt;br style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;六、扩张海军。&lt;/span&gt;&lt;br style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;七、置亲兵以卫帝都。&lt;/span&gt;&lt;br style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 14.2576px; background-color: rgb(248, 249, 250);&quot;&gt;八、金银货物等市易之事，应参照外国，定其宜当之法。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="665" y="655" width="590" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="518" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-1" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3700" y="638" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-2" value="海军/陆军线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2385" y="498" width="90" height="30" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-2" value="海军/陆军线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3570" y="530" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-4" value="与军队谈判" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2970" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-4" value="与军队谈判" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4100" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-5" value="不忠的人有难了" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-5" value="不忠的人有难了" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3570" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-8" value="刺探消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-8" value="刺探消息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3600" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-9" value="集结忠诚派" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-9" value="集结忠诚派" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3440" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-10" value="部署精锐部队" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="865" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-10" value="部署精锐部队" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3600" y="985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-11" value="有备无患" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="865" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-11" value="有备无患" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3440" y="985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-12" value="”下克上“" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2475" y="970" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-12" value="”下克上“" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3605" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-13" value="刺杀重要干部" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="970" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-13" value="买通干部" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3440" y="885" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-15" value="狂妄之徒的末日" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2475" y="1170" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-15" value="狂妄之徒的末日" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3605" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-16" value="海军的表态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-16" value="海军的表态" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3770" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-17" value="激化陆军" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2641" y="865" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-17" value="激化陆军" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3771" y="985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-18" value="马鹿之争" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="970" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-18" value="马鹿之争" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3770" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-19" value="敌在江户城" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2475" y="1070" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-19" value="敌在江户城" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3605" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-20" value="国之军队" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-20" value="国之军队" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3890" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-21" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="1460" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-21" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3490" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-22" value="翱翔樱之空" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3650" y="1460" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-22" value="翱翔樱之空" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4780" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-23" value="哦，海军" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2990" y="1460" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-23" value="哦，海军" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4120" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-24" value="装甲即未来" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="1590" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-24" value="装甲即未来" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3300" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-25" value="侧重魔法部队" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="1590" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-25" value="侧重魔法部队" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3490" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-26" value="找准位置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="1590" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-26" value="找准位置" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3690" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-27" value="决定发展路线" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2990" y="1600" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-27" value="决定发展路线" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4120" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-28" value="舰队发展计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2990" y="1740" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-28" value="舰队发展计划" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4120" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="1870" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-29" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3850" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-30" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2990" y="1870" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-30" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4120" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="1870" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-31" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4410" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-32" value="驱逐是立本特色，不得不品尝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2710" y="1785" width="180" height="30" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-32" value="驱逐是立本特色，不得不品尝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3840" y="1905" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-34" value="超大和也要，大风也要，这才算得上健全" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3220" y="1785" width="240" height="30" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-34" value="超大和也要，大风也要，这才算得上健全" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4350" y="1905" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-35" value="别搁你那小豆丁不放了，看看隔壁的装甲吧" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="1580" width="250" height="30" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-35" value="别搁你那小豆丁不放了，看看隔壁的装甲吧" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2930" y="1700" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3470" y="2030" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-38" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4600" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-39" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2990" y="2000" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-39" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4120" y="2120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-40" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="2010" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-40" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4410" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-41" value="提高装甲钢质量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="2000" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-41" value="提高装甲钢质量" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4270" y="2120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-42" value="全有或全无" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="2120" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-42" value="全有或全无" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4270" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-43" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="2240" width="120" height="60" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-43" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4270" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXyVNuYwYLjohMRoK8uW-44" value="给两航空兵一个联合的位置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3625" y="1688" width="170" height="30" as="geometry" />
+        <mxCell id="lXyVNuYwYLjohMRoK8uW-44" value="给两航空兵一个联合的位置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4755" y="1808" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2jacqaXLJVJb4KGqrom1-1" value="参观先进造船科技" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2jacqaXLJVJb4KGqrom1-2" value="卡美洛的海军" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3500" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2jacqaXLJVJb4KGqrom1-3" value="通往北方的航线" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2jacqaXLJVJb4KGqrom1-4" value="" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3755" y="2208" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2jacqaXLJVJb4KGqrom1-5" value="舰娘的经验" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="2208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2jacqaXLJVJb4KGqrom1-6" value="聘请精英" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2jacqaXLJVJb4KGqrom1-7" value="钢铁,动力,大炮" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3500" y="2210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2jacqaXLJVJb4KGqrom1-8" value="签订造船合同" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3500" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2jacqaXLJVJb4KGqrom1-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="4940" y="2560" as="sourcePoint" />
+            <mxPoint x="5020" y="2560" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
